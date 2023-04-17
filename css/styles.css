@@ -83,7 +83,7 @@
     text-align: center;
     color: var(--third-color);
   }
-  .hero-botton {
+  .hero-button {
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
@@ -93,8 +93,8 @@
     color: var(--third-color);
     background-color: var(--primary-brand-color);
   }
-  .hero-btn:hover,
-  .hero-btn:focus {
+  .hero-button:hover,
+  .hero-button:focus {
     background-color: var(--pressed-state-color);
   }
   /* Team */
@@ -116,7 +116,7 @@
   
   /* Portfolio */
   
-  .filter-btn {
+  .filter-button {
     font-family: inherit;
     font-weight: 500;
     font-size: 16px;
@@ -126,8 +126,8 @@
     color: var(--primary-brand-color);
     background: var(--light-color);
   }
-  .filter-btn:hover,
-  .filter-btn:focus {
+  .filter-button:hover,
+  .filter-button:focus {
     color: var(--third-color);
     background-color: var(--pressed-state-color);
   }
